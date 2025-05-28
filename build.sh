@@ -18,4 +18,4 @@ npm run build
 cd ../backend
 
 # Collect static files
-python manage.py collectstatic --no-input
+python manage.py collectstatic --no-input 
